@@ -1,0 +1,62 @@
+/* Reset CSS */
+body{
+    background-color:rgb(242, 226, 213);
+}
+
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* nav section start  */
+.Book-Bless{
+    font-size: 50px;
+    text-align: center;
+    color: #440e01;
+    
+    color: #b96e13;
+    font-family: cursive;
+}
+.menubar{
+    text-align: center;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.nav-menu {
+    padding: 0px 40px 0px 40px ;
+    color: #b99a137e !important;
+    text-decoration: none;
+}
+.color-menu{
+    color: #f1a32d;
+    text-decoration: none;
+    font-weight: bold;
+}
+.img-div{
+    height: 500px;
+    width: 1200px;
+}
+/* Header */
+header {
+    background-image: url('header-background.jpg'); /* Replace 'header-background.jpg' with your image path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #8f0d0d38;
+    padding: 20px 0;
+    text-align: center;
+}
+header h1 {
+    font-size: 2em;
+    font-size: 2em;
+    text-align: center; /* Add this line to center the text */
+    
+}
+
+nav ul {
+    list-style: none;
+
+}
